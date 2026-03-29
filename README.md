@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1hJ4m147DA
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的美发门店管理系统，分为管理后台和用户网页端，可以给管理员、顾客角色使用，包括美容项目、项目预定、产品库存、产品入库、会员卡管理、会员卡充值模块和系统基础模块，项目编号T069。
 
